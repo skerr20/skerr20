@@ -1,4 +1,4 @@
-## I am a Current Software Engineering Student in search of a placement opportunity. 
+## I am a current Software Engineering student in search of a placement opportunity. 
 
 <!--
 **skerr20/skerr20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
