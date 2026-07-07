@@ -1,4 +1,4 @@
-## I am a current Software Engineering student in search of a placement opportunity. 
+## Current Software Engineering student at Queens University Belfast. 
 
 <!--
 **skerr20/skerr20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
